@@ -1,7 +1,7 @@
 # ella-resume-template
 LaTeX resume template, originally based upon AwesomeCV (posquit0/Awesome-CV)
 
-This is my personal resume template; my LaTex editor of choice is Overleaf.
+This is my personal resume template; my LaTeX editor of choice is Overleaf.
 
 To change header information, alter the awesome-cv.cls file.
 
